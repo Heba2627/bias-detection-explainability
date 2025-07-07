@@ -25,7 +25,7 @@ Structured data with features like:
   - Accuracy preserved
 
 ## 📄 Report
-See [`report.pdf`](./report.pdf) for full explanation, results, and charts.
+See [`report.pdf`](./Uncovering Bias and Explaining Decisions in a Job.pdf) for full explanation, results, and charts.
 
 ## ▶️ How to Run
 1. Clone the repo or download files
